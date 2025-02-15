@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiProje.WebApi.Migrations
 {
     [DbContext(typeof(ApiContext))]
-    [Migration("20250215092109_mig1")]
+    [Migration("20250215092935_mig1")]
     partial class mig1
     {
         /// <inheritdoc />
